@@ -1,1 +1,3 @@
+*attempt to cause merge conflict from LoginFeature branch*
+
 Some type of login implementation. (Testing branching using git bash)
