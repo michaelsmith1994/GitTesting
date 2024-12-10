@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 *attempting to create merge conflict for resolution testing- from main*
 
 Some type of login implementation. (Testing branching using git bash)
 
 *another line added by main*
+=======
+*attempt to cause merge conflict from LoginFeature branch*
+
+Some type of login implementation. (Testing branching using git bash)
+>>>>>>> LoginFeature
